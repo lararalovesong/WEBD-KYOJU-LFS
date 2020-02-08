@@ -125,10 +125,11 @@ color: seashell;
   text-align: center;
 }
 
-.information img {
+.informations img {
   height: 160px;
  text-align: center;
     text-align: center;
+     
 }
 
 
@@ -137,8 +138,12 @@ color: seashell;
 .giff{
     text-align: center;
     background-color:#F9F9FA;
+   
 }
 
+.giff img{
+    height: 140px;
+}
 
 /* footer */
 footer {
